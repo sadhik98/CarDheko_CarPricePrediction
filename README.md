@@ -8,7 +8,7 @@
 
 3.) By enabling users to input car details and receive instant price predictions, the project improves decision-making for buyers and sellers.
 
----
+----
 
 **Features**
 
@@ -40,7 +40,7 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, Joblib, Matplotlib, Seaborn, Strea
 
 Findings → Performed detailed analysis to understand how various factors (like car age, fuel type, and seller type) affect resale value; successfully predicted used car prices with high accuracy.
 
----
+----
 
 **Prerequesting Library**
 → All the required libraries and environment setup instructions are listed in the `requirements.txt` file.
